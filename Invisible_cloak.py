@@ -22,7 +22,7 @@ print(cv2.__version__)
 
 # taking video.mp4 as input. 
 # Make your path according to your needs 
-capture_video = cv2.VideoCapture("v.mp4") 
+capture_video = cv2.VideoCapture("Video.mp4") 
 	
 # give the camera to warm up 
 time.sleep(1) 
